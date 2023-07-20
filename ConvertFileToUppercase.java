@@ -12,7 +12,7 @@ import java.io.*;
 
 public class ConvertFileToUppercase {
     public static void main(String[] args) {
-       String filename = "C:\\Users\\Asus\\Desktop\\Java";
+       String filename = "C:\\Users\\Asus\\Desktop\\Java\\Javanew.txt";
 
         try {
             File file = new File(filename);
